@@ -1,0 +1,136 @@
+.shop {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#money {
+    position: absolute;
+    top: 0;
+    left: 0;
+	margin-top: 480px;
+	transform: scale(0.7);
+}
+
+#wallet {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 680px;
+	margin-left: 470px;
+	transform: scale(0.5);
+}
+
+#salesman {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 300px 0 0 870px;
+	transform: scale(1.2);
+}
+
+#check {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 180px;
+	transform: scale(0.4);
+}
+
+#bank_card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 350px 0 0 400px;
+	transform: scale(0.5);
+}
+#coins {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 640px 0 0 850px;
+}
+
+#shopping_cart {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 700px;
+}
+
+#shopping_cart_2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 530px;
+	transform: scale(1.2);
+}
+
+#security {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 1000px;
+    margin: 380px 0 0 1000px;
+	transform: scale(1.5);
+}
+
+#bottle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 250px 0 0 700px;
+	transform: scale(0.5);
+}
+
+#chips {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 250px 0 0 500px;
+	transform: scale(0.5);
+}
+
+#bread {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 200px 0 0 1050px;
+	transform: scale(0.5);
+}
+
+#packages {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 370px 0 0 80px;
+	transform: scale(0.9);
+}
+
+#power_engineer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 200px 0 0 100px;
+	transform: scale(0.5);
+}
+
+#cheese {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 400px 0 0 1200px;
+	transform: scale(0.5);
+}
+
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
