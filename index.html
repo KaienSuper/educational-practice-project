@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 <head>
-	<title>Проект</title>
+	<title>project</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="style.css" rel="stylesheet">
 </head>
 <body>
-	<h1>Магазин</h1>
+	<h1>Shop</h1>
 	<div class="shop">
 		<img src="images/wall.png">
 	</div>
@@ -63,11 +63,11 @@ let currentIndex = 0;
 
 const addEventListener = () => {
 	if (currentIndex >= shuffledObjects.length) {
-		document.getElementById("message").innerText = "Вы прошли игру!";
+		document.getElementById("message").innerText = "Г‚Г» ГЇГ°Г®ГёГ«ГЁ ГЁГЈГ°Гі!";
 		return;
 		}
 
-	document.getElementById("message").innerText = "Найди персонаж " + shuffledObjects[currentIndex];
+	document.getElementById("message").innerText = "Need to find " + shuffledObjects[currentIndex];
 
 	document.getElementById(shuffledObjects[currentIndex]).addEventListener('click', function (event) {
 			event.preventDefault();
